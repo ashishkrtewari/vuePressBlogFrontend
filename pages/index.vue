@@ -2,6 +2,7 @@
   <section class="zf-container-fluid">
     <Homepage :entry='entry'>
     </Homepage>
+    
   </section>
 </template>
 
